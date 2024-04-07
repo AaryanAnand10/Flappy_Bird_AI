@@ -1,7 +1,7 @@
 # Flappy Bird AI
 An implementation of a Flappy Bird AI using reinforcement learning in Python. This project uses a Q-learning algorithm to train the AI to play the game.
 
-#Working 
+# Working 
 This program is an implementation of the game Flappy Bird using the Pygame library in Python. Additionally, it uses the NEAT (NeuroEvolution of Augmenting Topologies) library to train a neural network to play the game. The goal is to have the neural network learn how to control the bird in the game to navigate through pipes and achieve the highest score possible.
 
 The main components of the program include:
