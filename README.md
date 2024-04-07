@@ -5,7 +5,6 @@ An implementation of a Flappy Bird AI using reinforcement learning in Python. Th
 This program is an implementation of the game Flappy Bird using the Pygame library in Python. Additionally, it uses the NEAT (NeuroEvolution of Augmenting Topologies) library to train a neural network to play the game. The goal is to have the neural network learn how to control the bird in the game to navigate through pipes and achieve the highest score possible.
 
 The main components of the program include:
-
 Bird class: represents the flappy bird with attributes such as position, velocity, rotation, and image. It has methods to move and jump the bird.
 Pipe class: represents the pipes that the bird must navigate through with attributes such as position, height, and image. It has methods to move and check for collisions with the bird.
 Base class: represents the ground that the bird is flying above with attributes such as position, velocity, and image. It has a method to move the ground.
