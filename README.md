@@ -18,6 +18,7 @@ Q-learning is a type of reinforcement learning algorithm that aims to learn the 
   
 
 ![Alt text]("https://cdn-media-1.freecodecamp.org/images/s39aVodqNAKMTcwuMFlyPSy76kzAmU5idMzk")
+<img align="right" alt="GIF" src="https://cdn-media-1.freecodecamp.org/images/s39aVodqNAKMTcwuMFlyPSy76kzAmU5idMzk" width="500" height="320" style="border-radius:50%" />
 
 
 
