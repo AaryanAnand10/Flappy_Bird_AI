@@ -13,6 +13,9 @@ Game window: the Pygame window where all the graphics are displayed.
 NEAT integration: the program uses the NEAT library to train a neural network to control the bird. The eval_genomes function runs the simulation of the current population of birds and sets their fitness based on the distance they reach in the game.
 The program has a main loop that runs the game and updates the graphics on the screen. The user can control the bird by pressing the space bar to make it jump. The neural network is trained by running the simulation multiple times with different populations of birds and selecting the fittest individuals to reproduce and mutate. The best neural network can be saved to a file for later use.
 
+![Alt text](https://github.com/AaryanAnand10/Flappy_Bird_AI/blob/main/Img/RESULT.png)
+
+
 # Q Learning Algorithm 
 Q-learning is a type of reinforcement learning algorithm that aims to learn the optimal action to take at each state of an environment to maximize the cumulative reward. It is a value-based algorithm, meaning that it learns the value of each action at each state, which is represented by the Q-value. The Q-value is updated iteratively based on the observed rewards and the maximum Q-value of the next state. The algorithm continues to update the Q-values until it converges to the optimal policy.
   
