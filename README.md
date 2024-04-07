@@ -17,7 +17,7 @@ The program has a main loop that runs the game and updates the graphics on the s
 Q-learning is a type of reinforcement learning algorithm that aims to learn the optimal action to take at each state of an environment to maximize the cumulative reward. It is a value-based algorithm, meaning that it learns the value of each action at each state, which is represented by the Q-value. The Q-value is updated iteratively based on the observed rewards and the maximum Q-value of the next state. The algorithm continues to update the Q-values until it converges to the optimal policy.
   
 
-![Alt text]("C:\Users\aarya\Downloads\s39aVodqNAKMTcwuMFlyPSy76kzAmU5idMzk.png")
+![Alt text]("https://cdn-media-1.freecodecamp.org/images/s39aVodqNAKMTcwuMFlyPSy76kzAmU5idMzk")
 
 
 
